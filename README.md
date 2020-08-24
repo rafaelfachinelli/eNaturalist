@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="./.github/logoeNaturalist.svg" width="200" height="210"/>
+<img src="./.github/logoeNaturalist.png" width="200" height="210"/>
 
 </div>
