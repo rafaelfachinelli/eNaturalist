@@ -39,7 +39,7 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 |:heavy_check_mark:|:computer:        |Definição de responsabilidades|
 |:heavy_check_mark:|:computer:        |Organização de reuniões|
 |:heavy_check_mark:|:computer:        |Planejamento da estrutura geral|
-|:heavy_check_mark:|:iphone:          |Design das telas do aplicativo|
+|:x:		   |:iphone:          |Design das telas do aplicativo|
 
 </div>
 
