@@ -142,6 +142,15 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ---
 ## :pray: **Equipe**
 
+<div align="center">
+
+|WEB Responsivo								|Servidor					|Aplicativo|
+|:---:									|:---:						|:---:|
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		||
+|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|||
+
+</div>
+
 Feito com 💚 pela eNaturalist 👋🏽 Entre em contato!
 
 [![Outlook Badge](https://img.shields.io/badge/-enaturalist.fatec@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:enaturalist.fatec@gmail.com)](mailto:enaturalist.fatec@gmail.com)
