@@ -47,7 +47,7 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 ## :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	👨‍🏫 eNaturalist em planejamento !
+	♻️ eNaturalist: Planejamento !
 </h4>
 
 ---
@@ -55,15 +55,15 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 
 <p align="center"><b> :computer::iphone: WEB RESPONSIVO </b></p>
 
-
+<h4 align="center"> 
+	♻️ eNaturalist: Planejamento !
+</h4>
 
 <p align="center"><b> :iphone: APLICATIVO </b></p>
 
-<div align="center">
-
-
-
-</div>
+<h4 align="center"> 
+	♻️ eNaturalist: Planejamento !
+</h4>
 
 ---
 ## :dvd: **Executar o Projeto**
