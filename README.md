@@ -53,11 +53,11 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 ---
 ## :movie_camera: **Demonstração**
 
-<p align="center"><b> :computer: WEB DESKTOP </b></p>
+<p align="center"><b> :computer::iphone: WEB RESPONSIVO </b></p>
 
 
 
-<p align="center"><b> :iphone: WEB MOBILE </b></p>
+<p align="center"><b> :iphone: APLICATIVO </b></p>
 
 <div align="center">
 
