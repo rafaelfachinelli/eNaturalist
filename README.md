@@ -148,11 +148,11 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |:---:|:---:|:---:|
 |<a href="https://github.com/DaviMendes-S">Davi Mendes</a> | <a href="https://github.com/rafaelfachinelli">Rafael Fachinelli</a> | <a href="https://github.com/RenanKubo">Renan Kubo</a>|
 
-</div>
-
 Feito com 💚 pela eNaturalist 👋🏽 Entre em contato!
 
 [![Outlook Badge](https://img.shields.io/badge/-enaturalist.fatec@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:enaturalist.fatec@gmail.com)](mailto:enaturalist.fatec@gmail.com)
+
+</div>
 
 ---
 ## :page_facing_up: **Licença**
