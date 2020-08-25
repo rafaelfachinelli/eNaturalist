@@ -27,7 +27,7 @@
 
 A plataforma da eNaturalist fornece informações de conscientização sobre as consequências do descarte incorreto do lixo eletrônico e realiza o mapeamento de ecopontos nas cidades da região do Alto Tietê para coleta de eletrônicos.
 
-Doações de aparelhos eletrônicos são cadastrados na plataforma para consulta de instituições públicas autorizadas entrarem em contato com o doador para recebimento do aparelho eletrônico.
+Também possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. Na plataforma as instituições públicas autorizadas podem conultar e entrare em contato com o doador para busca ou recebimento do aparelho eletrônico.
 
 ---
 ## :memo: **Roteiro**
@@ -144,7 +144,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 Feito com 💚 pela eNaturalist 👋🏽 Entre em contato!
 
-[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
+[![Outlook Badge](https://img.shields.io/badge/-enaturalist.fatec@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:enaturalist.fatec@gmail.com)](mailto:enaturalist.fatec@gmail.com)
 
 ---
 ## :page_facing_up: **Licença**
