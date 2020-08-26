@@ -53,10 +53,12 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 ---
 ## :movie_camera: **Demonstração**
 
-<p align="center"><b> :computer::iphone: WEB RESPONSIVO </b></p>
+<p align="center"><b> :computer::iphone: WEB RESPONSIVO </b>
+<p><img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?color=219653&style=for-the-badge"/></p>
+</p>
 
 
-<h4 align="center"> 
+<h4 align="center">
 	♻️ eNaturalist: Planejamento !
 </h4>
 
