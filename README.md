@@ -58,17 +58,9 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 
 <p align="center"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Breve-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></p>
 
-<h4 align="center">
-	♻️ eNaturalist: Planejamento !
-</h4>
-
 <p align="center"><b> :iphone: APLICATIVO </b></p>
 
 <p align="center"><a href="https://www.figma.com/file/beUXYOnXPGzZzTtthK9jw4/eNaturalist?node-id=0%3A1"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Desenvolvimento-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></a></p>
-
-<h4 align="center"> 
-	♻️ eNaturalist: Planejamento !
-</h4>
 
 ---
 ## :dvd: **Executar o Projeto**
