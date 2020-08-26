@@ -54,9 +54,9 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 ## :movie_camera: **Demonstração**
 
 <p align="center"><b> :computer::iphone: WEB RESPONSIVO </b>
-<p><img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?color=219653&style=for-the-badge"/></p>
 </p>
 
+<p align="center"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Breve-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></p>
 
 <h4 align="center">
 	♻️ eNaturalist: Planejamento !
@@ -64,6 +64,7 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 
 <p align="center"><b> :iphone: APLICATIVO </b></p>
 
+<p align="center"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Breve-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></p>
 
 <h4 align="center"> 
 	♻️ eNaturalist: Planejamento !
