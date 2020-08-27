@@ -27,7 +27,7 @@
 
 A plataforma da eNaturalist fornece informações de conscientização sobre as consequências do descarte incorreto do lixo eletrônico e realiza o mapeamento de ecopontos nas cidades da região do Alto Tietê para coleta de eletrônicos.
 
-Também possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. Na plataforma as instituições públicas autorizadas podem conultar e entrare em contato com o doador para busca ou recebimento do aparelho eletrônico.
+Também possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. Na plataforma as instituições públicas autorizadas podem conultar e entrar em contato com o doador para busca ou recebimento do aparelho eletrônico.
 
 ---
 ## :memo: **Roteiro**
