@@ -14,7 +14,6 @@
   border-top-left-radius: .8rem;
 
   background: #27AE60;
-  border: 1px solid red;
 }
 
 .ecopoint__name {
@@ -37,7 +36,7 @@
   background: #2F80ED;
 }
 
-.ecopoint__view .ecopoint_link {
+.ecopoint__view .ecopoint__link {
   text-decoration: none;
   color: #E0E0E0;
 }
