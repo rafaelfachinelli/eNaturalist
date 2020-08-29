@@ -1,0 +1,43 @@
+#ecopoint__container {
+  display: grid;
+  grid-template-areas:
+    'icon name'
+    'icon view';
+  max-width: 300px;
+  height: 60px;
+  color: #E0E0E0;
+}
+
+.ecopoint__icon {
+  grid-area: icon;
+  border-bottom-left-radius: .8rem;
+  border-top-left-radius: .8rem;
+
+  background: #27AE60;
+  border: 1px solid red;
+}
+
+.ecopoint__name {
+  grid-area: name;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-right-radius: .8rem;
+
+  background: #219653;
+}
+
+.ecopoint__view {
+  grid-area: view;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom-right-radius: .8rem;
+
+  background: #2F80ED;
+}
+
+.ecopoint__view .ecopoint_link {
+  text-decoration: none;
+  color: #E0E0E0;
+}
