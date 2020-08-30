@@ -40,6 +40,7 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 |:heavy_check_mark:|:computer:        |Organização de reuniões|
 |:heavy_check_mark:|:computer:        |Planejamento da estrutura geral|
 |:x:		   |:iphone:          |Design das telas do aplicativo|
+|:x:		   |:computer::iphone:          |Design das páginas da plataforma web|
 
 </div>
 
