@@ -73,6 +73,9 @@ Entre na pasta [`web/`](web/) e execute os seguintes comandos:
 _com **npm**_
 
 ```bash
+# Instalar dependências
+$ npm install
+
 # Iniciar servidor de desenvolvimento
 $ ng serve
 ```
@@ -80,6 +83,9 @@ $ ng serve
 _com **yarn**_
 
 ```bash
+# Instalar dependências
+$ yarn
+
 # Iniciar servidor de desenvolvimento
 $ ng serve
 ```
