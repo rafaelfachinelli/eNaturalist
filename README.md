@@ -73,15 +73,15 @@ Entre na pasta [`web/`](web/) e execute os seguintes comandos:
 _com **npm**_
 
 ```bash
-# 
-$ 
+# Iniciar servidor de desenvolvimento
+$ ng serve
 ```
 
 _com **yarn**_
 
 ```bash
-# 
-$ 
+# Iniciar servidor de desenvolvimento
+$ ng serve
 ```
 
 > ⚠️ 
