@@ -151,6 +151,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |<a href="https://github.com/DaviMendes-S"><img src="https://avatars0.githubusercontent.com/u/66315929?s=460&u=fdcb45a4ce343f5f4966155aadce49d3a61078cd&v=4" width="100px;" alt="Davi Mendes"/></a> | <a href="https://github.com/rafaelfachinelli"><img src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Rafael Fachinelli"/></a> | <a href="https://github.com/RenanKubo"><img src="https://avatars3.githubusercontent.com/u/66316370?s=460&v=4" width="100px;" alt="Renan Kubo"/></a> |
 |:---:|:---:|:---:|
 |<a href="https://github.com/DaviMendes-S">Davi Mendes</a> | <a href="https://github.com/rafaelfachinelli">Rafael Fachinelli</a> | <a href="https://github.com/RenanKubo">Renan Kubo</a>|
+|<a href="https://github.com/DaviMendes-S"><img src="https://avatars0.githubusercontent.com/u/66315929?s=460&u=fdcb45a4ce343f5f4966155aadce49d3a61078cd&v=4" width="100px;" alt="Davi Mendes"/></a> | <a href="https://github.com/rafaelfachinelli"><img src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Rafael Fachinelli"/></a> | <a href="https://github.com/RenanKubo"><img src="https://avatars3.githubusercontent.com/u/66316370?s=460&v=4" width="100px;" alt="Renan Kubo"/></a> |
+|<a href="https://github.com/DaviMendes-S">Davi Mendes</a> | <a href="https://github.com/rafaelfachinelli">Rafael Fachinelli</a> | <a href="https://github.com/RenanKubo">Renan Kubo</a>|
 
 Feito com 💚 pela eNaturalist 👋🏽 Entre em contato!
 
