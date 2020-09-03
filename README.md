@@ -90,7 +90,7 @@ $ yarn
 $ ng serve
 ```
 
-> ⚠️ 
+> ⚠️ O servidor é iniciado no localhost:4200
 
 ### :globe_with_meridians: **Servidor**
 
