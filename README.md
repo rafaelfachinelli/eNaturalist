@@ -54,14 +54,12 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 ---
 ## :movie_camera: **Demonstração**
 
+<p align="center"><a href="https://www.figma.com/file/beUXYOnXPGzZzTtthK9jw4/eNaturalist?node-id=0%3A1"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Desenvolvimento-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></a></p>
+
 <p align="center"><b> :computer::iphone: WEB RESPONSIVO </b>
 </p>
 
-<p align="center"><a href="https://www.figma.com/file/beUXYOnXPGzZzTtthK9jw4/eNaturalist?node-id=0%3A1"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Desenvolvimento-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></a></p>
-
 <p align="center"><b> :iphone: APLICATIVO </b></p>
-
-
 
 ---
 ## :dvd: **Executar o Projeto**
