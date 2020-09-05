@@ -138,6 +138,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |:---:									|:---:						|:---:|
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		||
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|||
+|[Angular](https://angular.io)						|||
 
 </div>
 
