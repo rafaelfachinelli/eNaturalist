@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="eNaturalist" src="./.github/logoIcon.png" width="200" height="210"/>
+  <img alt="eNaturalist" src="./.github/logoTypography.svg" width="200" height="210"/>
 <p>
 
 <p align="center"> 
