@@ -41,7 +41,8 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 |:heavy_check_mark:|:computer:        |Planejamento da estrutura geral|
 |:x:		   |:iphone:          |Design das telas do aplicativo|
 |:x:		   |:computer::iphone:|Design das páginas da plataforma web responsivo|
-|:x:		   |:computer:	      |Criar componentes para o web responsivo|
+|:x:		   |:computer::iphone:|Criar estrutura dos componentes web responsivo|
+|:x:		   |:computer::iphone:|Estilizar componentes web responsivo|
 
 </div>
 
