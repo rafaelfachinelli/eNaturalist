@@ -63,6 +63,10 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 
 <p align="center"><b> :iphone: APLICATIVO </b></p>
 
+<p align="center">
+  <img alt="eNaturalist" src="./.github/mobile_demo.gif"/>
+<p>
+
 ---
 ## :dvd: **Executar o Projeto**
 
