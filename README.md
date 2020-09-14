@@ -2,7 +2,7 @@
   <img alt="eNaturalist" src="./.github/logoTypography.svg"/>
 <p>
 
-Rafael Fachinelli
+> Rafael Fachinelli
 
 
 <p align="center"> 
