@@ -2,6 +2,9 @@
   <img alt="eNaturalist" src="./.github/logoTypography.svg"/>
 <p>
 
+Rafael Fachinelli
+
+
 <p align="center"> 
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/eNaturalist?color=219653&style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/eNaturalist?color=219653&style=for-the-badge">
