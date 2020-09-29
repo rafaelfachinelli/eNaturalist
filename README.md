@@ -33,6 +33,8 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 ## :memo: **Roteiro**
 
 <div align="center">
+<details>
+<summary>Clique para Visualizar</summary>
 
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
@@ -44,6 +46,7 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 |:x:		   |:computer::iphone:|Criar estrutura dos componentes web responsivo|
 |:x:		   |:computer::iphone:|Estilizar componentes web responsivo|
 
+</details>
 </div>
 
 ---
