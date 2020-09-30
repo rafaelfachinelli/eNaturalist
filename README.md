@@ -119,24 +119,13 @@ $
 
 ### :iphone: **Aplicativo**
 
-Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
+_com **Android Studio**_
 
-_com **npm**_
+Selecione a pasta [`mobile/`](mobile/) e abra o projeto.
 
-```bash
-# 
-$ 
-```
-
-_com **yarn**_
-
-```bash
-# 
-$ 
-```
+> Utilize o AVD para emular o sistema operacional Android ou celular no USB.
 
 ---
-
 ## :hammer: **Tecnologias**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
