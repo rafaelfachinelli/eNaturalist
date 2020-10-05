@@ -70,16 +70,16 @@ nav{
 }
 
 .iconTv{
-    list-style-image: url(/web/src/assets/img/menu_iconsTv.svg);
+    list-style-image: url("/web/src/assets/img/menu_iconsTv.svg");
 }
 
 .iconLocation{
-    list-style-image: url(/web/src/assets/img/menu_iconsLocation.svg);
+    list-style-image: url("/web/src/assets/img/menu_iconsLocation.svg");
 }
 
 .iconGraph{
-    list-style-image: url(/web/src/assets/img/menu_iconsGraph.svg);
+    list-style-image: url("/web/src/assets/img/menu_iconsGraph.svg");
 }
 .iconDonate{
-    list-style-image: url(/web/src/assets/img/menu_logoDonation.svg);
+    list-style-image: url("/web/src/assets/img/menu_logoDonation.svg");
 }
