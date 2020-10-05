@@ -6,13 +6,16 @@ import { AppComponent } from './app.component';
 import { MenuComponent } from './components/menu/menu.component';
 import { EcopointComponent } from './components/ecopoint/ecopoint.component';
 import { OqueEElixoComponent } from './pages/oque-e-elixo/oque-e-elixo.component';
+import { HeaderComponent } from './components/header/header.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     MenuComponent,
     EcopointComponent,
-    OqueEElixoComponent
+    OqueEElixoComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
