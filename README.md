@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="eNaturalist" src="./.github/logoeNaturalist.png" width="200" height="210"/>
+  <img alt="eNaturalist" src="./.github/logoTypography.svg"/>
 <p>
 
 <p align="center"> 
@@ -27,20 +27,26 @@
 
 A plataforma da eNaturalist fornece informações de conscientização sobre as consequências do descarte incorreto do lixo eletrônico e realiza o mapeamento de ecopontos nas cidades da região do Alto Tietê para coleta de eletrônicos.
 
-Também possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. Na plataforma as instituições públicas autorizadas podem conultar e entrar em contato com o doador para busca ou recebimento do aparelho eletrônico.
+Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. Na plataforma as instituições públicas autorizadas podem consultar os cadastros para entrar em contato com o doador e buscar ou receber o aparelho eletrônico.
 
 ---
 ## :memo: **Roteiro**
 
 <div align="center">
+<details>
+<summary>Clique para Visualizar</summary>
 
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
 |:heavy_check_mark:|:computer:        |Definição de responsabilidades|
 |:heavy_check_mark:|:computer:        |Organização de reuniões|
 |:heavy_check_mark:|:computer:        |Planejamento da estrutura geral|
-|:x:		   |:iphone:          |Design das telas do aplicativo|
+|:heavy_check_mark:|:iphone:          |Design das telas do aplicativo|
+|:x:		   |:computer::iphone:|Design das páginas da plataforma web responsivo|
+|:x:		   |:computer::iphone:|Criar estrutura dos componentes web responsivo|
+|:x:		   |:computer::iphone:|Estilizar componentes web responsivo|
 
+</details>
 </div>
 
 ---
@@ -53,14 +59,16 @@ Também possui a possibilidade para cadastrado de aparelhos eletrônicos para do
 ---
 ## :movie_camera: **Demonstração**
 
+<p align="center"><a href="https://www.figma.com/file/beUXYOnXPGzZzTtthK9jw4/eNaturalist?node-id=0%3A1"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Desenvolvimento-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></a></p>
+
 <p align="center"><b> :computer::iphone: WEB RESPONSIVO </b>
 </p>
 
-<p align="center"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Breve-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></p>
-
 <p align="center"><b> :iphone: APLICATIVO </b></p>
 
-<p align="center"><a href="https://www.figma.com/file/beUXYOnXPGzZzTtthK9jw4/eNaturalist?node-id=0%3A1"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Desenvolvimento-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></a></p>
+<p align="center">
+  <kbd><img alt="eNaturalist" src="./.github/mobile_demo.gif"/></kbd>
+<p>
 
 ---
 ## :dvd: **Executar o Projeto**
@@ -72,18 +80,24 @@ Entre na pasta [`web/`](web/) e execute os seguintes comandos:
 _com **npm**_
 
 ```bash
-# 
-$ 
+# Instalar dependências
+$ npm install
+
+# Iniciar servidor de desenvolvimento
+$ ng serve
 ```
 
 _com **yarn**_
 
 ```bash
-# 
-$ 
+# Instalar dependências
+$ yarn
+
+# Iniciar servidor de desenvolvimento
+$ ng serve
 ```
 
-> ⚠️ 
+> ⚠️ O servidor é iniciado no localhost:4200
 
 ### :globe_with_meridians: **Servidor**
 
@@ -105,24 +119,13 @@ $
 
 ### :iphone: **Aplicativo**
 
-Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
+_com **Android Studio**_
 
-_com **npm**_
+Selecione a pasta [`mobile/`](mobile/) e abra o projeto.
 
-```bash
-# 
-$ 
-```
-
-_com **yarn**_
-
-```bash
-# 
-$ 
-```
+> Utilize o AVD para emular o sistema operacional Android ou celular no USB.
 
 ---
-
 ## :hammer: **Tecnologias**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
@@ -131,8 +134,10 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 |WEB Responsivo								|Servidor					|Aplicativo|
 |:---:									|:---:						|:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		||
-|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|||
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		|[Kotlin](https://kotlinlang.org)|
+|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|						|[Java](https://www.java.com/pt-BR/)|
+|[Angular](https://angular.io)						|||
+|[TypeScript](https://www.typescriptlang.org)				|||
 
 </div>
 
@@ -144,6 +149,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |<a href="https://github.com/DaviMendes-S"><img src="https://avatars0.githubusercontent.com/u/66315929?s=460&u=fdcb45a4ce343f5f4966155aadce49d3a61078cd&v=4" width="100px;" alt="Davi Mendes"/></a> | <a href="https://github.com/rafaelfachinelli"><img src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Rafael Fachinelli"/></a> | <a href="https://github.com/RenanKubo"><img src="https://avatars3.githubusercontent.com/u/66316370?s=460&v=4" width="100px;" alt="Renan Kubo"/></a> |
 |:---:|:---:|:---:|
 |<a href="https://github.com/DaviMendes-S">Davi Mendes</a> | <a href="https://github.com/rafaelfachinelli">Rafael Fachinelli</a> | <a href="https://github.com/RenanKubo">Renan Kubo</a>|
+|<a href="https://github.com/cris141187"><img src="https://avatars1.githubusercontent.com/u/65961863?s=460&u=6bad8c345703b83adadfaf2bfd08217b3803e1a4&v=4" width="100px;" alt="Cristiano Carvalho"/></a> | <a href="https://github.com/J0BS013"><img src="https://avatars0.githubusercontent.com/u/55113897?s=460&u=93ed0229a40a6cd12f1e687da9ab9247dda644f4&v=4" width="100px;" alt="Joabe Benção"/></a> | |
+|<a href="https://github.com/cris141187">Cristiano Carvalho</a> | <a href="https://github.com/J0BS013">Joabe Benção</a> | |
 
 Feito com 💚 pela eNaturalist 👋🏽 Entre em contato!
 
