@@ -53,7 +53,7 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 ## :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	♻️ eNaturalist: Planejamento !
+	♻️ eNaturalist: Desenvolvimento !
 </h4>
 
 ---
