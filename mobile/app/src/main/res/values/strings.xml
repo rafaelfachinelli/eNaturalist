@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Mobile</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_eWaste">O que é e-Lixo</string>
+    <string name="title_searchEcopoints">Buscar Ecopontos</string>
+    <string name="title_donateElectronic">Doar Eletrônicos</string>
+    <string name="title_viewStatistics">Viualizar Estatísticas</string>
 </resources>
