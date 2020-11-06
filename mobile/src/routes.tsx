@@ -1,4 +1,5 @@
 import React from 'react';
+import { Image } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
@@ -9,7 +10,8 @@ import Statistics from './screens/Statistics';
 
 import iconTV from './images/TV.png';
 import iconPIN from './images/PIN.png';
-import { Image } from 'react-native';
+import iconBox from './images/Box.png';
+import iconGraph from './images/Graph.png';
 
 const Tab = createBottomTabNavigator();
 
@@ -64,6 +66,11 @@ export default function Routes() {
           component={SearchEcopoints} 
           options={{
             tabBarLabel: 'Ecopontos',
+            tabBarIcon:({ color, size, focused }) => {
+              return (
+                <Image source={iconPIN} style={{width: size, height: size, resizeMode: "contain"}}/>
+              );
+            }
           }}
         />
         <Tab.Screen 
@@ -71,6 +78,11 @@ export default function Routes() {
           component={DonateElectronics}
           options={{
             tabBarLabel: 'Eletrônicos',
+            tabBarIcon:({ color, size, focused }) => {
+              return (
+                <Image source={iconBox} style={{width: size, height: size, resizeMode: "contain"}}/>
+              );
+            }
           }}
         />
         <Tab.Screen 
@@ -78,6 +90,11 @@ export default function Routes() {
           component={Statistics}
           options={{
             tabBarLabel: 'Estatísticas',
+            tabBarIcon:({ color, size, focused }) => {
+              return (
+                <Image source={iconGraph} style={{width: size, height: size, resizeMode: "contain"}}/>
+              );
+            }
           }}
         />
       </Tab.Navigator>
