@@ -44,7 +44,7 @@ export default function Routes() {
           labelStyle: {
             fontFamily: 'Archivo_600SemiBold',
             fontSize: 13,
-            marginTop: 5,
+            marginTop: 12,
           },
           labelPosition: 'below-icon',
         }}
