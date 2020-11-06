@@ -54,7 +54,7 @@ export default function Routes() {
             tabBarLabel: 'e-Lixo',
             tabBarIcon:({ color, size, focused }) => {
               return (
-                <Image source={iconTV}/>
+                <Image source={iconTV} style={{width: size, height: size, resizeMode: "contain"}}/>
               );
             }
           }}
