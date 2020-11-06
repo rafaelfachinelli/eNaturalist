@@ -34,9 +34,6 @@ export default function Routes() {
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
-            borderColor: '#219653',
-            borderRightWidth: 0.5,
-            borderLeftWidth: 0.5,
           },
           iconStyle: {
             flex: 0,
