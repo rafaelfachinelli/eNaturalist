@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
   },
 
   text: {
+    fontFamily: 'Archivo_600SemiBold',
     color: '#4f4f4f',
   },
 });
