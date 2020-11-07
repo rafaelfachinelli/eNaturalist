@@ -1,8 +1,8 @@
 import React from 'react';
-import { StyleSheet, View, Text, Image, Button, TouchableOpacity } from 'react-native';
+import { StyleSheet, View, Text, Image, TouchableOpacity } from 'react-native';
+import { Feather } from '@expo/vector-icons'
 
 import Logo from '../../images/Logo.png';
-import icoMenu from '../../images/menu.png';
 
 export default function Header() {
   return (
@@ -11,7 +11,7 @@ export default function Header() {
         style={styles.menu}
         onPress={() => {}}
       >
-        <Image style={styles.icoMenu} source={icoMenu}/>
+        <Feather name='menu' size={30} color='#333'/>
       </TouchableOpacity>
       <Image style={styles.logo} source={Logo}/>
     </View>
@@ -25,6 +25,8 @@ const styles = StyleSheet.create({
     padding: 10,
     flexDirection: 'row',
     justifyContent: 'space-around',
+    borderBottomWidth: 4,
+    borderColor: '#219653',
   },
 
   logo: {
@@ -42,7 +44,7 @@ const styles = StyleSheet.create({
   },
 
   icoMenu: {
-    width: 30,
-    height: 30,
+    width: 25,
+    height: 25,
   },
 });
