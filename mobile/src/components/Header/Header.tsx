@@ -1,5 +1,6 @@
 import React from 'react';
-import { StyleSheet, View, Text, Image, TouchableOpacity } from 'react-native';
+import { StyleSheet, View, Image } from 'react-native';
+import { RectButton } from 'react-native-gesture-handler';
 import { Feather } from '@expo/vector-icons'
 
 import Logo from '../../images/Logo.png';
@@ -7,12 +8,12 @@ import Logo from '../../images/Logo.png';
 export default function Header() {
   return (
     <View style={styles.container}>
-      <TouchableOpacity
+      <RectButton
         style={styles.menu}
         onPress={() => {}}
       >
         <Feather name='menu' size={30} color='#333'/>
-      </TouchableOpacity>
+      </RectButton>
       <Image style={styles.logo} source={Logo}/>
     </View>
   );

@@ -7,29 +7,31 @@ import Separator from '../components/Separator/Separator';
 
 export default function SearchEcopoints() {
   return (
-    <ScrollView style={styles.container}>
+    <View style={styles.container}>
       <Header/>
-      <View style={styles.center}>
-        <Text style={styles.titleGreen}>Selecione uma cidade</Text>
-        <TextInput
-          placeholder='Escolha uma cidade'
-          style={styles.textInput}
-          onChangeText={() => {}}
-          autoCompleteType='off'
-          autoFocus
-        />
-        <Text style={styles.titleGreen}>Ecopontos disponíveis</Text>
+      <ScrollView >
+        <View style={styles.center}>
+          <Text style={styles.titleGreen}>Selecione uma cidade</Text>
+          <TextInput
+            placeholder='Escolha uma cidade'
+            style={styles.textInput}
+            onChangeText={() => {}}
+            autoCompleteType='off'
+            autoFocus
+          />
+          <Text style={styles.titleGreen}>Ecopontos disponíveis</Text>
 
-        <Ecopoint/>
-        <Separator/>
-        <Ecopoint/>
-        <Separator/>
-        <Ecopoint/>
+          <Ecopoint/>
+          <Separator/>
+          <Ecopoint/>
+          <Separator/>
+          <Ecopoint/>
 
-        <Text style={styles.textQuantity}>3 ecopontos encontrados</Text>
+          <Text style={styles.textQuantity}>3 ecopontos encontrados</Text>
 
-      </View>
-    </ScrollView>
+        </View>
+      </ScrollView>
+    </View>
   );
 }
 
@@ -37,6 +39,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#e0e0e0',
+    marginTop: 24,
   },
 
   center: {

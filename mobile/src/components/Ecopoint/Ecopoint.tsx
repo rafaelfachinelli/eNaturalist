@@ -1,5 +1,6 @@
 import React from 'react';
-import { StyleSheet, View, Text, TouchableOpacity, Image } from 'react-native';
+import { StyleSheet, View, Text, Image } from 'react-native';
+import { RectButton } from 'react-native-gesture-handler';
 
 import icoPinEcopoint from '../../images/ico_pinEcopoint.png';
 
@@ -12,13 +13,13 @@ export default function Ecopoint() {
       <View style={styles.containerInfo}>
         <Text style={styles.name}>01 - Centro</Text>
         <View style={styles.button}>
-          <TouchableOpacity
+          <RectButton
             style={styles.button}
             accessibilityLabel='Visualizar detalhes do ecoponto.'
             onPress={() => {}}
           >
             <Text style={styles.buttonText}>Visualizar</Text>
-          </TouchableOpacity>
+          </RectButton>
         </View>
       </View>
     </View>
