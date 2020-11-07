@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
   },
 
   containerInfo: {
-    width: '70%',
+    width: '80%',
   },
 
   name: {
