@@ -94,7 +94,6 @@ export default function WhatIs() {
         </View>
       </View>
       
-            
     </ScrollView>
   );
 }
