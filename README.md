@@ -134,8 +134,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 |WEB Responsivo								|Servidor					|Aplicativo|
 |:---:									|:---:						|:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		|[Kotlin](https://kotlinlang.org)|
-|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|						|[Java](https://www.java.com/pt-BR/)|
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		|[React Native](https://reactnative.dev/)|
+|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|						|[React Navigation](https://reactnavigation.org/)|
 |[Angular](https://angular.io)						|||
 |[TypeScript](https://www.typescriptlang.org)				|||
 
