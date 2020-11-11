@@ -119,11 +119,29 @@ $
 
 ### :iphone: **Aplicativo**
 
-_com **Android Studio**_
+Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
 
-Selecione a pasta [`mobile/`](mobile/) e abra o projeto.
+_com **npm**_
 
-> Utilize o AVD para emular o sistema operacional Android ou celular no USB.
+```bash
+# Instalar dependências
+$ npm install
+
+# Iniciar aplicação
+$ expo start
+```
+
+_com **yarn**_
+
+```bash
+# Instalar dependências
+$ yarn
+
+# Iniciar aplicação
+$ expo start
+```
+
+> ⚠️ A aplicação é iniciada no localhost:0000
 
 ---
 ## :hammer: **Tecnologias**
@@ -136,8 +154,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |:---:									|:---:						|:---:|
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		|[React Native](https://reactnative.dev/)|
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|						|[React Navigation](https://reactnavigation.org/)|
-|[Angular](https://angular.io)						|||
-|[TypeScript](https://www.typescriptlang.org)				|||
+|[Angular](https://angular.io)						|						||
+|[TypeScript](https://www.typescriptlang.org)				|						||
 
 </div>
 
