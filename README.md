@@ -77,25 +77,32 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 
 Entre na pasta [`web/`](web/) e execute os seguintes comandos:
 
-_com **npm**_
+<details>
+<summary><i>com <b>npm</b></i></summary>
 
 ```bash
 # Instalar dependências
 $ npm install
 
 # Iniciar servidor de desenvolvimento
-$ ng serve
+$ npm start
 ```
 
-_com **yarn**_
+</details>
+
+<details>
+<summary><i>com <b>yarn</b></i></summary>
 
 ```bash
 # Instalar dependências
 $ yarn
 
 # Iniciar servidor de desenvolvimento
-$ ng serve
+$ yarn start
+
 ```
+
+</details>
 
 > ⚠️ O servidor é iniciado no localhost:4200
 
@@ -121,25 +128,32 @@ $
 
 Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
 
-_com **npm**_
+<details>
+<summary><i>com <b>npm</b></i></summary>
 
 ```bash
 # Instalar dependências
 $ npm install
 
-# Iniciar aplicação
+# Iniciar servidor de desenvolvimento
 $ expo start
 ```
 
-_com **yarn**_
+</details>
+
+<details>
+<summary><i>com <b>yarn</b></i></summary>
 
 ```bash
 # Instalar dependências
 $ yarn
 
-# Iniciar aplicação
+# Iniciar servidor de desenvolvimento
 $ expo start
+
 ```
+
+</details>
 
 > ⚠️ A aplicação é iniciada no localhost:0000
 
