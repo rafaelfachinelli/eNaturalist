@@ -110,19 +110,25 @@ $ yarn start
 
 Entre na pasta [`server/`](server/) e execute os seguintes comandos:
 
-_com **npm**_
+<details>
+<summary><i>com <b>npm</b></i></summary>
 
 ```bash
 # 
 $ 
 ```
 
-_com **yarn**_
+</details>
+
+<details>
+<summary><i>com <b>yarn</b></i></summary>
 
 ```bash
 # 
 $ 
 ```
+
+</details>
 
 ### :iphone: **Aplicativo**
 
