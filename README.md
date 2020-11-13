@@ -35,6 +35,8 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 <div align="center">
 <details>
 <summary>Clique para Visualizar</summary>
+<details>
+<summary>Web</summary>
 
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
@@ -46,6 +48,23 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 |:x:		   |:computer::iphone:|Criar estrutura dos componentes web responsivo|
 |:x:		   |:computer::iphone:|Estilizar componentes web responsivo|
 
+</details>
+<details>
+<summary>Mobile</summary>
+
+|      Estado      |     Plataforma   |     Tarefa    |
+|      :---:       |       :---:      |      :---     |
+||||
+
+</details>
+<details>
+<summary>Server</summary>
+
+|      Estado      |     Plataforma   |     Tarefa    |
+|      :---:       |       :---:      |      :---     |
+||||
+
+</details>
 </details>
 </div>
 
