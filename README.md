@@ -38,30 +38,30 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 <details>
 <summary>Web</summary>
 
-|      Estado      |     Plataforma   |     Tarefa    |
-|      :---:       |       :---:      |      :---     |
-|:heavy_check_mark:|:computer:        |Definição de responsabilidades|
-|:heavy_check_mark:|:computer:        |Organização de reuniões|
-|:heavy_check_mark:|:computer:        |Planejamento da estrutura geral|
-|:heavy_check_mark:|:iphone:          |Design das telas do aplicativo|
-|:x:		   |:computer::iphone:|Design das páginas da plataforma web responsivo|
-|:x:		   |:computer::iphone:|Criar estrutura dos componentes web responsivo|
-|:x:		   |:computer::iphone:|Estilizar componentes web responsivo|
+|      Estado      |     Tarefa    |
+|      :---:       |      :---     |
+|:heavy_check_mark:|Definição de responsabilidades|
+|:heavy_check_mark:|Organização de reuniões|
+|:heavy_check_mark:|Planejamento da estrutura geral|
+|:heavy_check_mark:|Design das telas do aplicativo|
+|:x:		   |Design das páginas da plataforma web responsivo|
+|:x:		   |Criar estrutura dos componentes web responsivo|
+|:x:		   |Estilizar componentes web responsivo|
 
 </details>
 <details>
 <summary>Mobile</summary>
 
-|      Estado      |     Plataforma   |     Tarefa    |
-|      :---:       |       :---:      |      :---     |
+|      Estado      |     Tarefa    |
+|      :---:       |      :---     |
 ||||
 
 </details>
 <details>
 <summary>Server</summary>
 
-|      Estado      |     Plataforma   |     Tarefa    |
-|      :---:       |       :---:      |      :---     |
+|      Estado      |     Tarefa    |
+|      :---:       |      :---     |
 ||||
 
 </details>
