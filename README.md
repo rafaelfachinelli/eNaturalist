@@ -12,15 +12,29 @@
 <p>
 
 <p align="center">
+ <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#computer-sobre">Sobre</a> •
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#pray-equipe">Equipe</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
+
+---
+## :movie_camera: **Demonstração**
+
+<p align="center"><a href="https://www.figma.com/file/beUXYOnXPGzZzTtthK9jw4/eNaturalist?node-id=0%3A1"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Desenvolvimento-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></a></p>
+
+<p align="center"><b> :computer::iphone: WEB RESPONSIVO </b>
+</p>
+
+<p align="center"><b> :iphone: APLICATIVO </b></p>
+
+<p align="center">
+  <kbd><img alt="eNaturalist" src="./.github/mobile_demo.gif"/></kbd>
+<p>
 
 ---
 ## :computer: Sobre
@@ -74,20 +88,6 @@ Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. 
 <h4 align="center"> 
 	♻️ eNaturalist: Desenvolvimento !
 </h4>
-
----
-## :movie_camera: **Demonstração**
-
-<p align="center"><a href="https://www.figma.com/file/beUXYOnXPGzZzTtthK9jw4/eNaturalist?node-id=0%3A1"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Desenvolvimento-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></a></p>
-
-<p align="center"><b> :computer::iphone: WEB RESPONSIVO </b>
-</p>
-
-<p align="center"><b> :iphone: APLICATIVO </b></p>
-
-<p align="center">
-  <kbd><img alt="eNaturalist" src="./.github/mobile_demo.gif"/></kbd>
-<p>
 
 ---
 ## :dvd: **Executar o Projeto**
