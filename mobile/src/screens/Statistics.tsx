@@ -1,7 +1,9 @@
 import React from 'react';
-import { StyleSheet, View, Text, ScrollView } from 'react-native';
+import { StyleSheet, View, Text, ScrollView, Image } from 'react-native';
 
 import Header from '../components/Header/Header';
+
+import imgStatistics from '../images/statistics/statistics.png';
 
 export default function Statistics() {
   return (
@@ -9,6 +11,8 @@ export default function Statistics() {
       <Header/>
       <ScrollView>
         <Text style={styles.titleGreen}>Visualizar Estatísticas</Text>
+        <Image style={styles.image} source={imgStatistics}/>
+
       </ScrollView>
     </View>
   );
@@ -36,4 +40,9 @@ const styles = StyleSheet.create({
     marginBottom: 10,
     textAlign: "center",
   },
+
+  image: {
+    width: 320,
+    height: 300,
+  }
 });

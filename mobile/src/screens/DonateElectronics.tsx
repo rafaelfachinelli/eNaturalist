@@ -26,7 +26,6 @@ export default function DonateElectronics() {
             style={styles.textInput}
             onChangeText={() => {}}
             autoCompleteType='off'
-            autoFocus
           />
           <Separator/>
           <TextInput
@@ -34,7 +33,6 @@ export default function DonateElectronics() {
             style={styles.textInput}
             onChangeText={() => {}}
             autoCompleteType='off'
-            autoFocus
           />
           <Separator/>
           <TextInput
@@ -42,7 +40,6 @@ export default function DonateElectronics() {
             style={styles.textInputBox}
             onChangeText={() => {}}
             autoCompleteType='off'
-            autoFocus
             multiline
             numberOfLines={10}
           />

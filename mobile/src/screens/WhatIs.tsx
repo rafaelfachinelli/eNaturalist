@@ -1,7 +1,14 @@
 import React from 'react';
-import { View, Text, StyleSheet, ScrollView } from 'react-native';
+import { View, Text, StyleSheet, ScrollView, Image } from 'react-native';
 
 import Header from '../components/Header/Header';
+
+import imgeWaste1 from '../images/ewaste/africa.jpg';
+import imgeWaste2 from '../images/ewaste/elixo.jpg';
+import imgeWaste3 from '../images/ewaste/elixo2.jpg';
+import imgeWaste4 from '../images/ewaste/smartphones.jpg';
+import imgeWaste5 from '../images/ewaste/elixo3.jpg';
+import imgeWaste6 from '../images/ewaste/elixo4.jpg';
 
 export default function WhatIs() {
   return (
@@ -22,7 +29,12 @@ export default function WhatIs() {
         </View>
 
         <ScrollView showsHorizontalScrollIndicator horizontal>
-          <Text>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam maiores voluptates, voluptatum rerum possimus unde nobis dolores expedita quo sapiente molestias dignissimos! Impedit pariatur molestiae, odit eveniet exercitationem maxime quisquam.</Text>
+          <Image style={styles.imagesWaste} source={imgeWaste1}/>
+          <Image style={styles.imagesWaste} source={imgeWaste2}/>
+          <Image style={styles.imagesWaste} source={imgeWaste3}/>
+          <Image style={styles.imagesWaste} source={imgeWaste4}/>
+          <Image style={styles.imagesWaste} source={imgeWaste5}/>
+          <Image style={styles.imagesWaste} source={imgeWaste6}/>
         </ScrollView>
 
         <Text style={styles.titleGreen}>Descarte</Text>
@@ -169,5 +181,10 @@ const styles = StyleSheet.create({
     marginVertical: 10,
     borderRadius: 10,
   },
+
+  imagesWaste: {
+    width: 150,
+    height: 150,
+  }
   
 });
