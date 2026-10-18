@@ -1,226 +1,162 @@
 <p align="center">
-  <img alt="eNaturalist" src=".github/banner.svg"/>
-<p>
+  <img alt="eNaturalist" src=".github/banner.svg" width="400px"/>
+</p>
 
-<p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/eNaturalist?color=219653&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/eNaturalist?color=219653&style=for-the-badge">
-  <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito pela eNaturalist" src="https://img.shields.io/badge/Team-eNaturalist-%219653?color=219653&style=for-the-badge">
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/eNaturalist?color=3498db&style=for-the-badge">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/eNaturalist?color=3498db&style=for-the-badge">
+  <a href="https://rafaelfachinelli.com">
+    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-3498db?style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?color=219653&style=for-the-badge"/>
-<p>
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-3498db?style=for-the-badge">
+</p>
 
 <p align="center">
- <a href="#movie_camera-demonstração">Demonstração</a> •
- <a href="#computer-sobre">Sobre</a> •
- <a href="#memo-roteiro">Roteiro</a> •
- <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#dvd-executar-o-projeto">Executar</a> •
- <a href="#hammer-tecnologias">Tecnologias</a> •
- <a href="#pray-equipe">Equipe</a> •
- <a href="#page_facing_up-licença">Licença</a>
+  <a href="#eye_speech_bubble-preview">Preview</a> •
+  <a href="#information_source-about">About</a> •
+  <a href="#memo-tasks">Tasks</a> •
+  <a href="#arrow_forward-run">Run</a> •
+  <a href="#hammer_and_wrench-technologies">Technologies</a> •
+  <a href="#boy-author">Author</a> •
+  <a href="#balance_scale-license">License</a>
 </p>
 
 ---
-## :movie_camera: **Demonstração**
 
-<p align="center"><a href="https://www.figma.com/file/beUXYOnXPGzZzTtthK9jw4/eNaturalist?node-id=0%3A1"><img alt="Design no Figma" src="https://img.shields.io/badge/FIGMA-Em_Desenvolvimento-219653?logo=figma&style=for-the-badge&link=https://github.com/rafaelfachinelli/eNaturalist"/></a></p>
-
-<p align="center"><b> :computer::iphone: WEB RESPONSIVO </b>
-</p>
-
-<p align="center"><b> :iphone: APLICATIVO </b></p>
-
-<p align="center">
-  <kbd><img alt="eNaturalist" src="./.github/mobile_demo.gif"/></kbd>
-<p>
-
----
-## :computer: Sobre
-
-A plataforma da eNaturalist fornece informações de conscientização sobre as consequências do descarte incorreto do lixo eletrônico e realiza o mapeamento de ecopontos nas cidades da região do Alto Tietê para coleta de eletrônicos.
-
-Possui a possibilidade para cadastrado de aparelhos eletrônicos para doação. Na plataforma as instituições públicas autorizadas podem consultar os cadastros para entrar em contato com o doador e buscar ou receber o aparelho eletrônico.
-
----
-## :memo: **Roteiro**
-
-<div align="center">
-<details>
-<summary>Clique para Visualizar</summary>
-<details>
-<summary>Web</summary>
-
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
-|:heavy_check_mark:|Definição de responsabilidades|
-|:heavy_check_mark:|Organização de reuniões|
-|:heavy_check_mark:|Planejamento da estrutura geral|
-|:heavy_check_mark:|Design das telas do aplicativo|
-|:x:		   |Design das páginas da plataforma web responsivo|
-|:x:		   |Criar estrutura dos componentes web responsivo|
-|:x:		   |Estilizar componentes web responsivo|
-
-</details>
-<details>
-<summary>Mobile</summary>
-
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
-||||
-
-</details>
-<details>
-<summary>Server</summary>
-
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
-||||
-
-</details>
-</details>
-</div>
-
----
-## :triangular_ruler: **Status do Projeto**
-
-<h4 align="center"> 
-	♻️ eNaturalist: Desenvolvimento !
-</h4>
-
----
-## :dvd: **Executar o Projeto**
-
-### :desktop_computer: **WEB Responsivo**
-
-Entre na pasta [`web/`](web/) e execute os seguintes comandos:
-
-<details>
-<summary><i>com <b>npm</b></i></summary>
-
-```bash
-# Instalar dependências
-$ npm install
-
-# Iniciar servidor de desenvolvimento
-$ npm start
-```
-
-</details>
-
-<details>
-<summary><i>com <b>yarn</b></i></summary>
-
-```bash
-# Instalar dependências
-$ yarn
-
-# Iniciar servidor de desenvolvimento
-$ yarn start
-
-```
-
-</details>
-
-> ⚠️ O servidor é iniciado no localhost:4200
-
-### :globe_with_meridians: **Servidor**
-
-Entre na pasta [`server/`](server/) e execute os seguintes comandos:
-
-<details>
-<summary><i>com <b>npm</b></i></summary>
-
-```bash
-# 
-$ 
-```
-
-</details>
-
-<details>
-<summary><i>com <b>yarn</b></i></summary>
-
-```bash
-# 
-$ 
-```
-
-</details>
-
-### :iphone: **Aplicativo**
-
-Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
-
-<details>
-<summary><i>com <b>npm</b></i></summary>
-
-```bash
-# Instalar dependências
-$ npm install
-
-# Iniciar servidor de desenvolvimento
-$ expo start
-```
-
-</details>
-
-<details>
-<summary><i>com <b>yarn</b></i></summary>
-
-```bash
-# Instalar dependências
-$ yarn
-
-# Iniciar servidor de desenvolvimento
-$ expo start
-
-```
-
-</details>
-
-> ⚠️ A aplicação é iniciada no localhost:0000
-
----
-## :hammer: **Tecnologias**
-
-As seguintes ferramentas foram utilizadas na construção do projeto:
+## :eye_speech_bubble: Preview
 
 <div align="center">
 
-|WEB Responsivo								|Servidor					|Aplicativo|
-|:---:									|:---:						|:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|[Node.JS](https://nodejs.org/pt-br/)		|[React Native](https://reactnative.dev/)|
-|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|						|[React Navigation](https://reactnavigation.org/)|
-|[Angular](https://angular.io)						|						|[Expo](https://expo.io)|
-|[TypeScript](https://www.typescriptlang.org)				|						|[Expo Google Fonts](https://github.com/expo/google-fonts)|
+|Mobile|
+|:---:|
+|<kbd><img src=".github/mobile_demo.gif" alt="eNaturalist mobile app" width="280px"/></kbd>|
 
 </div>
 
 ---
-## :pray: **Equipe**
+
+## :information_source: About
+
+♻️ My final course project (TCC) at FATEC. eNaturalist raises awareness about the consequences of throwing electronic waste away incorrectly and maps the ecopoints that collect electronics in the cities of the Alto Tietê region (São Paulo). People can also register electronics for donation, so authorized public institutions can contact the donor to pick them up.
+
+The mobile app (React Native with Expo) has screens to learn what e-waste is, search ecopoints, donate electronics and see statistics. The web platform (Angular) was started with its header, menu and ecopoint components.
+
+Built in 2020.
+
+---
+
+## :memo: Tasks
+
+<div align="center">
+<details>
+<summary>Click to view</summary>
+
+<details>
+<summary>📱 Mobile</summary>
+
+|State|Task|
+|:---:|:---|
+|:heavy_check_mark:|Navigation with bottom tabs|
+|:heavy_check_mark:|What is e-waste screen|
+|:heavy_check_mark:|Search ecopoints screen|
+|:heavy_check_mark:|Donate electronics screen|
+|:heavy_check_mark:|Statistics screen|
+
+</details>
+
+<details>
+<summary>🌐 Web</summary>
+
+|State|Task|
+|:---:|:---|
+|:heavy_check_mark:|Planning and app screen design|
+|:heavy_check_mark:|Header, menu and ecopoint components|
+|:x:|Responsive pages of the web platform|
+
+</details>
+
+<details>
+<summary>🗄️ Server</summary>
+
+|State|Task|
+|:---:|:---|
+|:x:|API for ecopoints and donations|
+
+</details>
+
+</details>
+</div>
+
+---
+
+## :arrow_forward: Run
+
+You need [Node.js](https://nodejs.org/). For the app, install [Expo Go](https://expo.dev/go) on your phone.
+
+### Mobile
+
+In the [`mobile/`](mobile/) folder:
+
+```bash
+# Install dependencies
+yarn
+
+# Start Expo and scan the QR code with Expo Go
+yarn start
+```
+
+### Web
+
+In the [`web/`](web/) folder:
+
+```bash
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+> The web app opens at <http://localhost:4200>.
+
+---
+
+## :hammer_and_wrench: Technologies
 
 <div align="center">
 
-|<a href="https://github.com/DaviMendes-S"><img src="https://avatars0.githubusercontent.com/u/66315929?s=460&u=fdcb45a4ce343f5f4966155aadce49d3a61078cd&v=4" width="100px;" alt="Davi Mendes"/></a> | <a href="https://github.com/rafaelfachinelli"><img src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Rafael Fachinelli"/></a> | <a href="https://github.com/RenanKubo"><img src="https://avatars3.githubusercontent.com/u/66316370?s=460&v=4" width="100px;" alt="Renan Kubo"/></a> |
-|:---:|:---:|:---:|
-|<a href="https://github.com/DaviMendes-S">Davi Mendes</a> | <a href="https://github.com/rafaelfachinelli">Rafael Fachinelli</a> | <a href="https://github.com/RenanKubo">Renan Kubo</a>|
-|<a href="https://github.com/cris141187"><img src="https://avatars1.githubusercontent.com/u/65961863?s=460&u=6bad8c345703b83adadfaf2bfd08217b3803e1a4&v=4" width="100px;" alt="Cristiano Carvalho"/></a> | <a href="https://github.com/J0BS013"><img src="https://avatars0.githubusercontent.com/u/55113897?s=460&u=93ed0229a40a6cd12f1e687da9ab9247dda644f4&v=4" width="100px;" alt="Joabe Benção"/></a> | |
-|<a href="https://github.com/cris141187">Cristiano Carvalho</a> | <a href="https://github.com/J0BS013">Joabe Benção</a> | |
-
-Feito com 💚 pela eNaturalist 👋🏽 Entre em contato!
-
-[![Outlook Badge](https://img.shields.io/badge/-enaturalist.fatec@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:enaturalist.fatec@gmail.com)](mailto:enaturalist.fatec@gmail.com)
+|Mobile|Web|
+|:---:|:---:|
+|[React Native](https://reactnative.dev/)|[Angular](https://angular.dev/)|
+|[Expo](https://expo.dev/)|[TypeScript](https://www.typescriptlang.org/)|
+|[TypeScript](https://www.typescriptlang.org/)|[RxJS](https://rxjs.dev/)|
+|[React Navigation](https://reactnavigation.org/)||
 
 </div>
 
 ---
-## :page_facing_up: **Licença**
+
+## :boy: Author
 
 <div align="center">
 
-Copyright © 2020 [eNaturalist](https://github.com/rafaelfachinelli).<br />
-Este projeto é licenciado pelo [MIT](./LICENSE).
+<a href="https://rafaelfachinelli.com">
+  <img src="https://github.com/rafaelfachinelli.png" width="100px" alt="Rafael Fachinelli"/>
+  <br/>
+  <sub><b>Rafael Fachinelli</b></sub>
+</a>
+
+Tech Lead and software engineer. Get in touch!
+
+[![Portfolio](https://img.shields.io/badge/-rafaelfachinelli.com-3498db?style=flat-square&logo=googlechrome&logoColor=white)](https://rafaelfachinelli.com)
+[![LinkedIn](https://img.shields.io/badge/-Rafael_Fachinelli-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfachinelli/)
+[![GitHub](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![E-mail](https://img.shields.io/badge/-rafael.l.a.fachinelli@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.l.a.fachinelli@gmail.com)
 
 </div>
+
+---
+
+## :balance_scale: License
+
+This project is under the [MIT license](./LICENSE).
